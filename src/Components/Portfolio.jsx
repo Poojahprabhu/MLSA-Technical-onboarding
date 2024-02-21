@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/programmer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "background image of a desk with a computer and a plant.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Akele Becar -  A Carpooling App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My role in a dynamic group involved the development of an innovative mapping system that emulated the functionality of Google Maps. I Utilized the robust capabilities of Map Box and the Distance Matrix API to seamlessly incorporate maps into the application and precisely determine travel distances.",
+    url: " ",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Code RED - ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I was responsible for the development of the creation of game using ROBLOX",
+    url: "https://www.roblox.com/games/11240674373/CodeRed",
   },
   {
-    title: "My Resume Site",
+    title: "Cinepinion - Opinion Sharing App for cinema buffs",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I was responsible for the development of the creation of full-stack application using HTML, CSS, Javascript, MySQL and PHP",
+    url: " ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "The holy Trinity of Metaverse, IOT, and NFT - Article",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My article explores how these cutting-edge technologies are converging to create a revolutionary digital landscape with endless possibilities.",
+    url: "https://www.linkedin.com/pulse/holy-trinity-metaverse-iot-nft-pooja-h-p",
   },
 ];
 
