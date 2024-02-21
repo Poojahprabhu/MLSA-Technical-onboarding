@@ -34,7 +34,7 @@ const projectList = [
     title: "Akele Becar -  A Carpooling App",
     description:
       "My role in a dynamic group involved the development of an innovative mapping system that emulated the functionality of Google Maps. I Utilized the robust capabilities of Map Box and the Distance Matrix API to seamlessly incorporate maps into the application and precisely determine travel distances.",
-    url: " ",
+    url: "https://github.com/Poojahprabhu/mapsdemo",
   },
   {
     title: "Code RED - ",
@@ -46,7 +46,7 @@ const projectList = [
     title: "Cinepinion - Opinion Sharing App for cinema buffs",
     description:
       "I was responsible for the development of the creation of full-stack application using HTML, CSS, Javascript, MySQL and PHP",
-    url: " ",
+    url: "https://github.com/Poojahprabhu/moviereviewsystem",
   },
   {
     title: "The holy Trinity of Metaverse, IOT, and NFT - Article",
